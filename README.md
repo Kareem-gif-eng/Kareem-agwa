@@ -24,7 +24,7 @@
 | | | | |
 |---|---|---|---|
 | HTML | CSS | JavaScript | React |
-| Tailwind CSS | Git | VS Code | Figma |
+| Tailwind CSS | Git | VS Code | Bootstrap|
 
 ---
 
@@ -48,7 +48,7 @@ Check out my projects here:
 
 ## 📫 Contact Me
 
-- 📧 Email: **kareemagwa797.com** *(لو هذه هي)*
+- 📧 Email: **kareemagwa797.com** 
 - 📞 Phone: **(20+)1093657374**
 
 Feel free to reach out if you want to collaborate or chat about front-end stuff!
